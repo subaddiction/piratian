@@ -38,7 +38,7 @@ rm -rf config/includes.chroot/usr/local/bin/firefox.tar.bz2
 rm -rf config/includes.chroot/usr/local/bin/thunderbird*
 wget "ftp://ftp.mozilla.org/pub/thunderbird/releases/latest/linux-x86_64/it/thunderbird-24.3.0.tar.bz2" -O config/includes.chroot/usr/local/bin/thunderbird.tar.bz2
 tar xjvf config/includes.chroot/usr/local/bin/thunderbird.tar.bz2 -C config/includes.chroot/usr/local/bin/
-ln -s /usr/local/bin/thunderbird config/includes.chroot/usr/bin/thunderbird
+ln -s /usr/local/bin/thunderbird/thunderbird config/includes.chroot/usr/bin/thunderbird
 rm -rf config/includes.chroot/usr/local/bin/thunderbird.tar.bz2
 
 
