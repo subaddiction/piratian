@@ -1,0 +1,25 @@
+[Default Applications]
+x-scheme-handler/http=alacarte-made.desktop
+x-scheme-handler/https=alacarte-made.desktop
+x-scheme-handler/ftp=alacarte-made.desktop
+x-scheme-handler/chrome=alacarte-made.desktop
+text/html=alacarte-made.desktop
+application/x-extension-htm=alacarte-made.desktop
+application/x-extension-html=alacarte-made.desktop
+application/x-extension-shtml=alacarte-made.desktop
+application/xhtml+xml=alacarte-made.desktop
+application/x-extension-xhtml=alacarte-made.desktop
+application/x-extension-xht=alacarte-made.desktop
+
+[Added Associations]
+x-scheme-handler/http=alacarte-made.desktop;
+x-scheme-handler/https=alacarte-made.desktop;
+x-scheme-handler/ftp=alacarte-made.desktop;
+x-scheme-handler/chrome=alacarte-made.desktop;
+text/html=alacarte-made.desktop;
+application/x-extension-htm=alacarte-made.desktop;
+application/x-extension-html=alacarte-made.desktop;
+application/x-extension-shtml=alacarte-made.desktop;
+application/xhtml+xml=alacarte-made.desktop;
+application/x-extension-xhtml=alacarte-made.desktop;
+application/x-extension-xht=alacarte-made.desktop;

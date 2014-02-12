@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[it_IT]=/usr/local/bin/firefox/browser/chrome/icons/default/default48.png
+Name[it_IT]=Firefox
+Exec=/usr/local/bin/firefox/firefox
+Comment[it_IT]=Firefox web browser
+Name=Firefox
+Comment=Firefox web browser
+Icon=/usr/local/bin/firefox/browser/chrome/icons/default/default48.png

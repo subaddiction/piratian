@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/gnome-applications.menu</MergeFile>
+	<Menu>
+		<Name>Internet</Name>
+		<Include>
+			<Filename>alacarte-made.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>alacarte-made-1.desktop</Filename>
+		</Include>
+		<Layout>
+			<Merge type="menus"/>
+			<Filename>transmission-gtk.desktop</Filename>
+			<Filename>vino-preferences.desktop</Filename>
+			<Filename>filezilla.desktop</Filename>
+			<Filename>icedtea-netx-javaws.desktop</Filename>
+			<Filename>iceweasel.desktop</Filename>
+			<Filename>evolution-settings.desktop</Filename>
+			<Filename>empathy.desktop</Filename>
+			<Filename>pidgin.desktop</Filename>
+			<Filename>remmina.desktop</Filename>
+			<Filename>vinagre.desktop</Filename>
+			<Filename>alacarte-made.desktop</Filename>
+			<Merge type="files"/>
+		</Layout>
+	</Menu>
+</Menu>

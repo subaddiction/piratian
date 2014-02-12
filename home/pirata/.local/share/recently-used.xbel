@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/pirata/piratian_wallpaper.jpg" added="2014-02-11T00:10:09Z" modified="2014-02-11T00:10:09Z" visited="2014-02-11T00:10:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2014-02-11T00:10:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/bin/firefox/firefox" added="2014-02-11T18:09:22Z" modified="2014-02-11T18:10:14Z" visited="2014-02-11T18:09:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-desktop-item-edit" exec="&apos;gnome-desktop-item-edit %u&apos;" modified="2014-02-11T18:10:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/bin/firefox/browser/chrome/icons/default/default48.png" added="2014-02-11T18:09:49Z" modified="2014-02-11T18:09:49Z" visited="2014-02-11T18:09:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-desktop-item-edit" exec="&apos;gnome-desktop-item-edit %u&apos;" modified="2014-02-11T18:09:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/bin/thunderbird/thunderbird" added="2014-02-11T18:10:41Z" modified="2014-02-11T18:10:41Z" visited="2014-02-11T18:10:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-desktop-item-edit" exec="&apos;gnome-desktop-item-edit %u&apos;" modified="2014-02-11T18:10:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/bin/thunderbird/chrome/icons/default/default48.png" added="2014-02-11T18:11:09Z" modified="2014-02-11T18:11:09Z" visited="2014-02-11T18:11:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-desktop-item-edit" exec="&apos;gnome-desktop-item-edit %u&apos;" modified="2014-02-11T18:11:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

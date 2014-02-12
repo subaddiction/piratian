@@ -1,0 +1,33 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.16:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+libgnashplugin.so:$
+/usr/lib/gnash/libgnashplugin.so:$
+:$
+1390535861000:0:0:$
+Shockwave Flash 10.1 r999.<br>Gnash 0.8.11dev, the GNU SWF Player.   Copyright (C) 2006, 2007, 2008, 2009, 2010, 2011   <a href="http://www.fsf.org">Free   Software Foundation</a>, Inc. <br>   Gnash comes with NO WARRANTY, to the extent permitted by law.   You may redistribute copies of Gnash under the terms of the   <a href="http://www.gnu.org/licenses/gpl.html">GNU General Public   License</a>. For more information about Gnash, see <a   href="http://www.gnu.org/software/gnash/">   http://www.gnu.org/software/gnash</a>.   <br>  Compatible Shockwave Flash 10.1 r999.:$
+Shockwave Flash:$
+1
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+libgnome-shell-browser-plugin.so:$
+/usr/lib/mozilla/plugins/libgnome-shell-browser-plugin.so:$
+:$
+1374781018000:0:0:$
+This plugin provides integration with Gnome Shell for live extension enabling and disabling. It can be used only by extensions.gnome.org:$
+Gnome Shell Integration:$
+1
+0:application/x-gnome-shell-integration:Gnome Shell Integration Dummy Content-Type::$
+librhythmbox-itms-detection-plugin.so:$
+/usr/lib/mozilla/plugins/librhythmbox-itms-detection-plugin.so:$
+:$
+1343445177000:0:0:$
+This plug-in detects the presence of iTunes when opening iTunes Store URLs in a web page with Firefox.:$
+iTunes Application Detector:$
+1
+0:application/itunes-plugin:::$
+
+[INVALID]
